@@ -50,7 +50,7 @@ I'm a passionate **.NET developer** focused on **automation and backend systems*
 -->
 ## 📬 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/vitor-silva-10474a189)  
+- [LinkedIn](https://www.linkedin.com/in/vitor-silva-10474a189/)  
 - [Email](mailto:silva.vigabriel@gmail.com)  
 
 ---
