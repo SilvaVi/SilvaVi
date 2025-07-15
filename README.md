@@ -17,7 +17,7 @@ I'm a passionate **.NET developer** focused on **automation and backend systems*
 - MySQL     
 <!-- <img width="80" height="80" alt="imgSql" src="https://github.com/user-attachments/assets/d19c613e-5025-483b-9ac6-69433213fa50" /> -->
 
-##**Automation Tools**
+**Automation Tools**
 - Selenium WebDriver
 - CEF Sharp
 - Chrome DevTools Protocol
